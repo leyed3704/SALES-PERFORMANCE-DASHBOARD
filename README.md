@@ -15,7 +15,7 @@ KPI's
 - Profit: $309K
 - Total Customers: 86
   ## Dashboard
-<img width="606" height="341" alt="SALES PERFORMANCE DASHBOARD" src="https://github.com/user-attachments/assets/a3463662-1d46-4ce3-8220-b3b8a8415877" />
+<img width="605" height="340" alt="SALES PERFORMANCE DASHBOARD" src="https://github.com/user-attachments/assets/59a7ab34-0068-442d-8e13-32c89f25a941" />
 
 
   ## Project Insight  
