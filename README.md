@@ -2,7 +2,7 @@
 ## Project Objective
 Oladipupo Store wants to create an annual report of Sales Performance for 2023 to evaluate it's profits, Cost of Goods sold and total revenue.
 ## Dataset used
-
+https://github.com/leyed3704/SALES-PERFORMANCE-DASHBOARD/blob/main/Sales%20performance%20Dashboard.xlsx
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same .
 - Made sure data is consistent and clean with respect to data type, data format and values used.
