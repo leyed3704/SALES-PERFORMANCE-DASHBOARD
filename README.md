@@ -10,16 +10,20 @@ https://github.com/leyed3704/SALES-PERFORMANCE-DASHBOARD/blob/main/Sales%20perfo
 - Merge all  tables into one dashboard and apply slicer to make dynamic.
 ## KPIs
 KPI's
-- Total Profit
-- Revenue per mile
-- Cost per mile
-- Profit Margin
+- Total Revenue: $1M
+- Cost of Goods Sold (COGS): $720K
+- Profit: $309K
+- Total Customers: 86
   ## Dashboard
-  <img width="615" height="344" alt="route profitability dashboard" src="https://github.com/user-attachments/assets/ac53db2f-413d-462c-b06c-746c6b17e6c2" />
-  
+<img width="606" height="341" alt="SALES PERFORMANCE DASHBOARD" src="https://github.com/user-attachments/assets/a3463662-1d46-4ce3-8220-b3b8a8415877" />
+
+
   ## Project Insight  
-- The dashboard shows a very strong overall profit of 197.30M.
-- Revenue per mile (2.44) is significantly higher than cost per mile (0.83), indicating efficient operations.
-- Cities like Seattle, Charlotte, and Columbus appear to contribute the highest profits.
-- Destination states such as OR, CA, and WA generate a large share of total revenue.
+-The business is making good profit, but a big chunk of revenue is going into costs, which limits how much is actually kept.
+- Apple clearly stands out as the top-performing brand, bringing in the most profit compared to others.
+- Revenue saw a bump in February but dropped in March, so demand isn’t completely steady month to month.
+- Customers in the high-income group are contributing the most to profit, more than the other segments.
 ## Conclusions
+- There’s a real opportunity to improve margins by getting costs under better control.
+- Doubling down on strong brands like Apple could help drive more consistent profit.
+- Focusing on high-value customers makes sense since they bring in the most return.
